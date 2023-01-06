@@ -1,5 +1,5 @@
 FROM node:alpine
-LABEL maintainer="Jay MOULIN <jaymoulin@gmail.com> <https://twitter.com/MoulinJay>"
+LABEL maintainer="MrKing  <swatantrasinghparihar72@gmail.com> <https://t.me/BotRelatedBjs>"
 COPY * /
 RUN yarn install
 
